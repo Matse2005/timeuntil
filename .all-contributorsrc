@@ -15,17 +15,7 @@
     }
   },
   "skipCi": true,
-  "contributors": [
-    {
-      "login": "Matse2005",
-      "name": "MatseVH",
-      "avatar_url": "https://avatars.githubusercontent.com/u/49431416?v=4",
-      "profile": "https://matsevh.eu",
-      "contributions": [
-        "code"
-      ]
-    }
-  ],
+  "contributors": [],
   "projectName": "timeuntil",
   "projectOwner": "Matse2005",
   "repoType": "github",
