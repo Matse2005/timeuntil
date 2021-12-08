@@ -45,14 +45,6 @@ Found a Bug ? Create an Issue.
 
 Chat on [Discord](https://discord.gg/GPbRMjncQT)
 
-<br />
-
-<table>
-  <tr>
-
-  </tr>
-</table>
-
 <br/>
 
 ## 💖 Like this project ?
